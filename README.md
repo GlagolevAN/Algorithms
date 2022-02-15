@@ -1,2 +1,3 @@
 # Algorithms
- Второй сезон тренировок по алгоритмам Яндекса
+ Second season of Yandex's algorithms training.
+https://yandex.ru/yaintern/algorithm-training
